@@ -5,10 +5,6 @@
 </script>
 
 <Router>
-	<nav>
-		<Link to='/'>Login</Link>
-		<Link to='/home'>Home</Link>
-	</nav>
 	<div>
 		<Route path="/" component={Login} />
 		<Route path="/home" component={Home} />

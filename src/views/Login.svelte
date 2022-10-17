@@ -166,3 +166,4 @@
 </div>
 <!-- end auth-page-wrapper -->
 <a href="http://localhost/app/productos.php">Enviar</a>
+<a href="/home">Ver Home</a>
